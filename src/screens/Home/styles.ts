@@ -6,7 +6,7 @@ export const styles = StyleSheet.create({
     backgroundColor: "#FFF"
   },
   description: {
-    color: "#2E9D4C",
+    color: "#5171a5",
     fontFamily: "Poppins_400Regular",
     textAlign: "center",
     fontSize: 14,
